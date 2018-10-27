@@ -9,7 +9,7 @@
 - [Dhyey B](https://github.com/dhyeyb04)
 - [owais](https://github.com/owais34)
 - [Ihoey](https://github.com/ihoey)
-- [Deepak Singh Bhainsora](https://github.com/deepaksingh22431)
+- [Deepak Singh](https://github.com/deepaksingh22431)
 - julio-garcia-fc
 - [Ravi Jain] (https://github.com/engrravijain)
 - [Patrick Biffle](https://github.com/Piglacquer)
